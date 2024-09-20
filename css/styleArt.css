@@ -1,0 +1,69 @@
+#nav {
+    left: 0;
+    margin-left: 0;
+    width: 100%;
+    min-width: 0;
+
+
+
+
+}
+
+
+
+ul a {
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+.navbar .navbar-expand-lg .navbar-dark li a {
+    outline: none;
+    color: aqua;
+
+}
+
+body {
+    background-color: #000;
+
+    height: 100%;
+}
+
+
+.gradientContent p{
+   color: #2abfe3 ;
+
+
+}
+
+.logo img {
+    align-items: center;
+}
+
+.PTextoJoselin {
+    display: flex;
+    justify-content: flex-start;
+    flex: 2;
+}
+
+.containerLower {
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+
+}
+
+#imgContainerMain {
+    flex: 2;
+}
+
+.PdeTexto {
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
