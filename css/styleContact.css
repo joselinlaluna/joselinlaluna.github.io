@@ -87,3 +87,25 @@ body {
     justify-content: center;
 
 }
+.iconJose{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.iconJose a{
+    color: aqua;
+    text-decoration: none;
+
+}
+.iconJose i{
+    color: aqua;
+}
+p{
+    font-family: "Times New Roman", Times, serif;
+}
+h1{
+    font-family: "Times New Roman", Times, serif;
+}
+nav a{
+    color: #000;
+}
