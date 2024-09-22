@@ -9,7 +9,16 @@
 
 }
 
+.tittle {
+    color: aliceblue;
 
+}
+
+.tittle h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 ul a {
     color: aliceblue;
@@ -25,13 +34,15 @@ ul a {
 
 body {
     background-color: #000;
+    height: 100%;
 
-  
+
+
 }
 
 
-.gradientContent p{
-   color: #2abfe3 ;
+.gradientContent p {
+    color: #2abfe3;
 
 
 }
@@ -67,3 +78,5 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+

@@ -8,11 +8,13 @@
 
 
 }
-.tittle{
+
+.tittle {
     color: aliceblue;
-    
+
 }
-.tittle h1{
+
+.tittle h1 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,8 +41,8 @@ body {
 }
 
 
-.gradientContent p{
-   color: #2abfe3 ;
+.gradientContent p {
+    color: #2abfe3;
 
 
 }
