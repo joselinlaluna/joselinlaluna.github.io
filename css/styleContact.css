@@ -74,14 +74,14 @@ body {
     align-items: center;
     justify-content: center;
 }
-.container h1{
+.textOfContact h1{
     display: flex;
     align-items: center;
     justify-content: center;
 
 
 }
-.container p{
+.textOfContact p{
     display: flex;
     align-items: center;
     justify-content: center;
