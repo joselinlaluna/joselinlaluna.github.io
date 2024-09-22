@@ -55,20 +55,6 @@ body {
     flex: 2;
 }
 
-.containerLower {
-    display: flex;
-    flex-direction: row;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1em;
-
-}
-
-#imgContainerMain {
-    flex: 2;
-}
-
 .PdeTexto {
     display: flex;
     flex-direction: column;
