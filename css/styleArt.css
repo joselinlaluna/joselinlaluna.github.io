@@ -66,12 +66,25 @@ body {
     align-items: center;
     justify-content: center;
 }
-p{
+
+p {
     font-family: "Times New Roman", Times, serif;
 }
-h1{
+
+h1 {
     font-family: "Times New Roman", Times, serif;
 }
-nav a{
+
+nav a {
     color: #000;
+}
+
+artDescription{
+ display: flex;
+
+}
+.artDescription p{
+opacity: 0.5;
+color: aliceblue;
+font-size: 1.2rem;
 }
