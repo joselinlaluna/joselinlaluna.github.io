@@ -88,6 +88,7 @@ nav a {
 }
 .imgContainer a h1{
       font-family: "Sofadi One", system-ui;
+      text-decoration: none;
 }
 #imgContainerMain{
 
