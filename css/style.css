@@ -32,7 +32,7 @@ ul a {
 
 .navbar .navbar-expand-lg .navbar-dark li a {
     outline: none;
-    color: aqua;
+
 
 }
 
@@ -111,13 +111,7 @@ nav a {
       color: aliceblue;
      opacity: 0.5;
 }
-footer{
-    background: linear-gradient(0deg, rgba(0,0,0,0.8841737378545168) 0%, rgba(0,0,0,0.9261905445772058) 100%);
-    
-}
-header{
-    background: linear-gradient(0deg, rgba(0,0,0,0.8841737378545168) 0%, rgba(0,0,0,0.9261905445772058) 100%)
-}
+
 main{
     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
 }
