@@ -8,13 +8,17 @@
 
 
 }
+.imgContainer h a{ 
+    text-decoration: none;
+     color: aliceblue;
+}
 
 .tittle {
     color: aliceblue;
 
 }
 
-.tittle h2 {
+.tittle h1 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -82,7 +86,7 @@ nav a {
     color: aliceblue;
     font-size: 1.2rem;
 }
-.imgContainer h1{
+.imgContainer a h1{
       font-family: "Sofadi One", system-ui;
 }
 #imgContainerMain{
