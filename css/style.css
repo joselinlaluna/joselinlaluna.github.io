@@ -14,7 +14,7 @@
 
 }
 
-.tittle h1 {
+.tittle h2 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -69,7 +69,7 @@ p {
     font-family: "Times New Roman", Times, serif;
 }
 
-h1 {
+h4 {
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -82,9 +82,13 @@ nav a {
     color: aliceblue;
     font-size: 1.2rem;
 }
-.imgContainer{
+.imgContainer h1{
       font-family: "Sofadi One", system-ui;
 }
 #imgContainerMain{
-    
+
+}
+.imgContainer a{
+    text-decoration: none;
+    color: azure;
 }
