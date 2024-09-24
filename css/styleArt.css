@@ -8,6 +8,27 @@
 
 
 }
+.imgContainer  h1{
+    text-decoration: none;
+      font-family: "Sofadi One", system-ui;      
+      color: aliceblue;
+    opacity: 0.5;
+}
+.logos a{
+    text-decoration: none;
+    color: aliceblue;
+    opacity: 0.5;
+}
+logos h1 {
+    text-decoration: none;
+    color: aliceblue;
+    opacity: 0.5;
+}
+header a {
+    text-decoration: none;
+    color: aliceblue;
+    opacity: 0.5;
+}
 
 .tittle {
     color: aliceblue;
@@ -30,7 +51,7 @@ ul a {
 
 .navbar .navbar-expand-lg .navbar-dark li a {
     outline: none;
-    color: aqua;
+    
 
 }
 
@@ -42,7 +63,7 @@ body {
 
 
 .gradientContent p {
-    color: #2abfe3;
+   color: black;
 
 
 }
@@ -84,7 +105,10 @@ artDescription{
 
 }
 .artDescription p{
-opacity: 0.5;
-color: aliceblue;
-font-size: 1.2rem;
+
+color:black;
+font-size: 1.4rem;
+}
+main{
+    background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
 }
