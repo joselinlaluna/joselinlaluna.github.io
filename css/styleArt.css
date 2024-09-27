@@ -11,18 +11,20 @@
 .imgContainer  h1{
     text-decoration: none;
       font-family: "Sofadi One", system-ui;      
-      color: aliceblue;
-    opacity: 0.5;
+      color: white;
+   
+   
 }
 .logos a{
     text-decoration: none;
-    color: aliceblue;
+    
     opacity: 0.5;
 }
 logos h1 {
     text-decoration: none;
-    color: aliceblue;
-    opacity: 0.5;
+    color: white;
+   
+   
 }
 header a {
     text-decoration: none;

@@ -13,10 +13,12 @@
     text-decoration: none;
       font-family: "Sofadi One", system-ui;      
       color: aliceblue;
-    opacity: 0.5;
+   
 }
 imgContainer h a {
     text-decoration: none;
+    color: white;
+   
 
 }
 .logos a{
@@ -26,8 +28,8 @@ imgContainer h a {
 }
 logos h1 {
     text-decoration: none;
-    color: aliceblue;
-    opacity: 0.5;
+    color: white;
+   
 }
 header a {
     text-decoration: none;
@@ -144,4 +146,7 @@ nav a{
 }
 main{
     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
+}
+a{
+    text-decoration: none;
 }
