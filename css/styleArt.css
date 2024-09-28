@@ -28,10 +28,13 @@ logos h1 {
 }
 header a {
     text-decoration: none;
+ 
+}
+.logos a{
+    text-decoration: none;
     color: aliceblue;
     opacity: 0.5;
 }
-
 .tittle {
     color: aliceblue;
 
@@ -43,7 +46,12 @@ header a {
     justify-content: center;
 }
 
-
+.imgContainer h1{
+    text-decoration: none;
+    color: white;
+   
+   
+}
 
 ul a {
     color: aliceblue;

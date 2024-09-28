@@ -8,11 +8,16 @@
 
 
 }
+.logos a{
+    text-decoration: none;
+    color: aliceblue;
+    opacity: 0.5;
+}
 
 .imgContainer  h1{
     text-decoration: none;
       font-family: "Sofadi One", system-ui;      
-      color: aliceblue;
+      color: white;
    
 }
 imgContainer h a {
@@ -23,7 +28,7 @@ imgContainer h a {
 }
 .logos a{
     text-decoration: none;
-    color: aliceblue;
+    
     opacity: 0.5;
 }
 logos h1 {
@@ -31,11 +36,13 @@ logos h1 {
     color: white;
    
 }
-header a {
+.imgContainer h1{
     text-decoration: none;
-    color: aliceblue;
-    opacity: 0.5;
+    color: white;
+   
+   
 }
+
 
 .h1Contact{
     color: aliceblue;
