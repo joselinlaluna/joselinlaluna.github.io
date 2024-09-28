@@ -137,6 +137,9 @@ body {
 }
 p{
     font-family: "Times New Roman", Times, serif;
+     color: aliceblue;
+    text-decoration: none;
+
 }
 h1{
     font-family: "Times New Roman", Times, serif;
@@ -147,6 +150,9 @@ nav a{
 main{
     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
 }
-a{
+a{  color: aliceblue;
     text-decoration: none;
+    
+
+
 }
