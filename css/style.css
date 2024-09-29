@@ -8,6 +8,10 @@
 
 
 }
+.hovering a:hover{
+     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
+
+}
 .imgContainer  a{ 
     text-decoration: none;
      color: aliceblue;
