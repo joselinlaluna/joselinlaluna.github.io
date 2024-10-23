@@ -8,17 +8,20 @@
 
 
 }
-.hovering a:hover{
-     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
+li a{
+    color: black;
+}
 
+.hovering a:hover{
+background-color: #000;
 }
 .imgContainer  a{ 
     text-decoration: none;
-     color: aliceblue;
+     color: black;
 }
 
 .tittle {
-    color: aliceblue;
+    color: black;
 
 }
 
@@ -29,7 +32,7 @@
 }
 
 ul a {
-    color: aliceblue;
+    color: #000;
     text-decoration: none;
 
 }
@@ -45,6 +48,9 @@ body {
      margin: 0;
   
 
+}
+.navbar{
+    font-family: "Sofadi One", system-ui;
 }
 
 
@@ -74,10 +80,9 @@ p {
 
 h4 {
     font-family: "Times New Roman", Times, serif;
+    color: #FEFEFA;
 }
-.logos{
 
-}
 
 nav a {
     color: #000;
@@ -86,30 +91,30 @@ nav a {
 .PTextoJoselin p {
    
     color: black;
-    font-size: 1.2rem;
+    
 }
 .imgContainer  h1{
       font-family: "Sofadi One", system-ui;
       text-decoration: none;
-      color: white;
+      color: #FEFEFA;
    
 }
 
 .imgContainer a{
     text-decoration: none;
-    color: aliceblue;
+    color: black;
     opacity: 0.5;
     
 }
 .imgContainer h1{
     text-decoration: none;
-    color: white;
+    
    
    
 }
 .logos a{
     text-decoration: none;
-    color: aliceblue;
+    color: black;
     opacity: 0.5;
 }
 .kuromiWasHere{

@@ -54,7 +54,7 @@ header a {
 }
 
 ul a {
-    color: aliceblue;
+    color: black;
     text-decoration: none;
 
 }
@@ -110,10 +110,6 @@ nav a {
     color: #000;
 }
 
-artDescription{
- display: flex;
-
-}
 .artDescription p{
 
 color:black;
@@ -123,6 +119,6 @@ main{
     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
 }
 .hovering a:hover{
-     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
-
+background-color: #000;
+}
 }

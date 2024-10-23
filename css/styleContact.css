@@ -20,7 +20,7 @@
       color: white;
    
 }
-imgContainer h a {
+imgContainer h1 a {
     text-decoration: none;
     color: white;
    
@@ -80,10 +80,7 @@ body {
 }
 
 
-.gradientContent p{
 
-
-}
 
 .logo img {
     align-items: center;
@@ -139,9 +136,8 @@ body {
     text-decoration: none;
 
 }
-.iconJose i{
-    
-}
+
+
 p{
     font-family: "Times New Roman", Times, serif;
      color: aliceblue;
@@ -157,13 +153,12 @@ nav a{
 main{
     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
 }
-a{  color: aliceblue;
+a{  color: black;
     text-decoration: none;
     
 
 
 }
 .hovering a:hover{
-     background: radial-gradient(circle, rgba(255,114,177,1) 0%, rgba(252,70,107,0.6124650543811274) 100%);
-
+background-color: #000;
 }
